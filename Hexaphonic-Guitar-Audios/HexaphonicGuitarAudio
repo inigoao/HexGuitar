@@ -1,1 +1,13 @@
 
+These are audio files containing hexaphonic guitar music. They consist of short musical excerpts (guitar riffs and phrases) for which the
+sound of each string is separated into an independent audio signal. The file names follow the next structure:
+
+(GuitarPhraseName)_(StringNumber).wav
+
+The files with the label "MIX" in the StringNumber contain the Mix signal of all the strings, and these help to make an idea of the 
+musical content of the file. The audio file corresponding to each string should be aligned (syncronized) with the others. Thereby, 
+playing the 6 audio files of a particular guitar phrase simutaneously sounds as the MIX file.
+
+Note.: some guitar phrases do not have the 6 audios (6 strings), as some of them were not used and thus silent audio signals. These were 
+already deleted.
+
